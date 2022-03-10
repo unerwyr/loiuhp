@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "unerwyr/loiuhp",
+  "description": "unerwyr/loiuhp",
   "keywords": [
-    "vmess or vles"
+    "unerwyr/loiuhp"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/unerwyr/loiuhp",
+  "repository": "https://github.com/unerwyr/loiuhp",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
